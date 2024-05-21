@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/ACER/GokulVivado/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sim_1/new/ALU_tb.v,1711250839,verilog,,,,ALU_tb,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sim_1/new/InstructionMemory_tb.v,1711258331,verilog,,,,InstructionMemory_tb,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sim_1/new/Processor_tb.v,1711681946,verilog,,,,Processor_tb,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sim_1/new/ProgramCounter_tb.v,1711256704,verilog,,,,ProgramCounter_tb,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sim_1/new/Register_file_tb.v,1711689417,verilog,,,,Register_file_tb,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/ALU.v,1711683954,verilog,,C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/AddressAdder.v,,ALU,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/AddressAdder.v,1711663855,verilog,,C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/InstructionMemory.v,,AddressAdder,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/InstructionMemory.v,1711772542,verilog,,C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/Instruction_decoder.v,,InstructionMemory,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/Instruction_decoder.v,1711673197,verilog,,C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/Processor.v,,Instruction_decoder,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/Processor.v,1711772684,verilog,,C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/ProgramCounter.v,,Processor,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/ProgramCounter.v,1711255512,verilog,,C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/Register_file.v,,ProgramCounter,,,,,,,,
+C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sources_1/new/Register_file.v,1711773706,verilog,,C:/Users/ACER/GokulVivado/project_2/project_2.srcs/sim_1/new/Processor_tb.v,,Register_file,,,,,,,,
